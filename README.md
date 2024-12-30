@@ -1,5 +1,7 @@
 # Chess engine ♟️
 
+My report [Algorithmic Clairvoyance in Computer Chess](Abir-Lakehal-z5453120-Report.pdf).
+
 This is my initial attempt at implementing an alpha-beta driven computer chess engine.
 
 **What works**
