@@ -1,6 +1,6 @@
 # ♟️ Chess Engine ♟️
 
-📃 My report [Algorithmic Clairvoyance in Computer Chess](Abir-Lakehal-z5453120-Report.pdf)
+📃 My report [Algorithmic Clairvoyance in Computer Chess](Abir-Lakehal-z5453120-Report.pdf) (download and insert password to read)
 
 💪🏼 This is my initial attempt at implementing an alpha-beta driven computer chess engine
 
